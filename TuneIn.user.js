@@ -4,7 +4,7 @@
 // @version      2024-08-22
 // @description  add a "Tune in!" option to the menu that simply connects you to the owot radio thing
 // @author       Gaje
-// @match        http*://ourworldoftext.com/*
+// @match        https://*.ourworldoftext.com/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==
