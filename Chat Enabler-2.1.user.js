@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Chat Enabler
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/slaskax/owotscripts/blob/master/scripts/chatenabler.js
 // @version      2.1
 // @description  re-enables chat on a world that had it disabled by the owner.
 // @author       yagton
-// @match        https://github.com/slaskax/owotscripts/blob/master/scripts/chatenabler.js
+// @match        https://ourworldoftext.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=ourworldoftext.com
 // @grant        none
 // ==/UserScript==
